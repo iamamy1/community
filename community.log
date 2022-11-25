@@ -1,0 +1,27 @@
+2022-08-31 20:47:23.211  INFO 76407 --- [main] com.nowcoder.community.LoggerTests       : Starting LoggerTests using Java 11.0.16.1 on AmeliadeMacBook-Pro.local with PID 76407 (started by amelia in /Users/amelia/IdeaProjects/community)
+2022-08-31 20:47:23.211 DEBUG 76407 --- [main] com.nowcoder.community.LoggerTests       : Running with Spring Boot v2.6.11, Spring v5.3.22
+2022-08-31 20:47:23.212  INFO 76407 --- [main] com.nowcoder.community.LoggerTests       : No active profile set, falling back to 1 default profile: "default"
+2022-08-31 20:47:24.020  INFO 76407 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-08-31 20:47:24.138  INFO 76407 --- [main] com.nowcoder.community.LoggerTests       : Started LoggerTests in 1.123 seconds (JVM running for 1.477)
+2022-08-31 20:47:24.303 DEBUG 76407 --- [main] com.nowcoder.community.LoggerTests       : debug log
+2022-08-31 20:47:24.303  INFO 76407 --- [main] com.nowcoder.community.LoggerTests       : info log
+2022-08-31 20:47:24.303  WARN 76407 --- [main] com.nowcoder.community.LoggerTests       : warn log
+2022-08-31 20:47:24.303 ERROR 76407 --- [main] com.nowcoder.community.LoggerTests       : error log
+2022-08-31 20:48:03.387  INFO 76668 --- [main] com.nowcoder.community.LoggerTests       : Starting LoggerTests using Java 11.0.16.1 on AmeliadeMacBook-Pro.local with PID 76668 (started by amelia in /Users/amelia/IdeaProjects/community)
+2022-08-31 20:48:03.387 DEBUG 76668 --- [main] com.nowcoder.community.LoggerTests       : Running with Spring Boot v2.6.11, Spring v5.3.22
+2022-08-31 20:48:03.387  INFO 76668 --- [main] com.nowcoder.community.LoggerTests       : No active profile set, falling back to 1 default profile: "default"
+2022-08-31 20:48:04.200  INFO 76668 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-08-31 20:48:04.335  INFO 76668 --- [main] com.nowcoder.community.LoggerTests       : Started LoggerTests in 1.356 seconds (JVM running for 1.73)
+2022-08-31 20:48:04.497 DEBUG 76668 --- [main] com.nowcoder.community.LoggerTests       : debug log
+2022-08-31 20:48:04.498  INFO 76668 --- [main] com.nowcoder.community.LoggerTests       : info log
+2022-08-31 20:48:04.498  WARN 76668 --- [main] com.nowcoder.community.LoggerTests       : warn log
+2022-08-31 20:48:04.498 ERROR 76668 --- [main] com.nowcoder.community.LoggerTests       : error log
+2022-08-31 20:48:24.818  INFO 76814 --- [main] com.nowcoder.community.LoggerTests       : Starting LoggerTests using Java 11.0.16.1 on AmeliadeMacBook-Pro.local with PID 76814 (started by amelia in /Users/amelia/IdeaProjects/community)
+2022-08-31 20:48:24.818 DEBUG 76814 --- [main] com.nowcoder.community.LoggerTests       : Running with Spring Boot v2.6.11, Spring v5.3.22
+2022-08-31 20:48:24.819  INFO 76814 --- [main] com.nowcoder.community.LoggerTests       : No active profile set, falling back to 1 default profile: "default"
+2022-08-31 20:48:25.609  INFO 76814 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-08-31 20:48:25.742  INFO 76814 --- [main] com.nowcoder.community.LoggerTests       : Started LoggerTests in 1.131 seconds (JVM running for 1.474)
+2022-08-31 20:48:25.897 DEBUG 76814 --- [main] com.nowcoder.community.LoggerTests       : debug log
+2022-08-31 20:48:25.898  INFO 76814 --- [main] com.nowcoder.community.LoggerTests       : info log
+2022-08-31 20:48:25.898  WARN 76814 --- [main] com.nowcoder.community.LoggerTests       : warn log
+2022-08-31 20:48:25.898 ERROR 76814 --- [main] com.nowcoder.community.LoggerTests       : error log
